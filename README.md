@@ -13,3 +13,5 @@ The second message should ask how many units of the product they would like to b
 Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
 
 See below for video of working app
+https://drive.google.com/file/d/1N0oFzWCHJNq2IUcY_dlQkVY70imMlvC9/view?usp=sharing
+
